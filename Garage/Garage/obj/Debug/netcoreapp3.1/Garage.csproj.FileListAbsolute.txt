@@ -1,0 +1,14 @@
+C:\Users\Asus TUF\OneDrive\Документи\1ДУТ ПАРИ\С#\Labs\Garage\Garage\bin\Debug\netcoreapp3.1\Garage.exe
+C:\Users\Asus TUF\OneDrive\Документи\1ДУТ ПАРИ\С#\Labs\Garage\Garage\bin\Debug\netcoreapp3.1\Garage.deps.json
+C:\Users\Asus TUF\OneDrive\Документи\1ДУТ ПАРИ\С#\Labs\Garage\Garage\bin\Debug\netcoreapp3.1\Garage.runtimeconfig.json
+C:\Users\Asus TUF\OneDrive\Документи\1ДУТ ПАРИ\С#\Labs\Garage\Garage\bin\Debug\netcoreapp3.1\Garage.runtimeconfig.dev.json
+C:\Users\Asus TUF\OneDrive\Документи\1ДУТ ПАРИ\С#\Labs\Garage\Garage\bin\Debug\netcoreapp3.1\Garage.dll
+C:\Users\Asus TUF\OneDrive\Документи\1ДУТ ПАРИ\С#\Labs\Garage\Garage\bin\Debug\netcoreapp3.1\Garage.pdb
+C:\Users\Asus TUF\OneDrive\Документи\1ДУТ ПАРИ\С#\Labs\Garage\Garage\obj\Debug\netcoreapp3.1\Garage.csproj.AssemblyReference.cache
+C:\Users\Asus TUF\OneDrive\Документи\1ДУТ ПАРИ\С#\Labs\Garage\Garage\obj\Debug\netcoreapp3.1\Garage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus TUF\OneDrive\Документи\1ДУТ ПАРИ\С#\Labs\Garage\Garage\obj\Debug\netcoreapp3.1\Garage.AssemblyInfoInputs.cache
+C:\Users\Asus TUF\OneDrive\Документи\1ДУТ ПАРИ\С#\Labs\Garage\Garage\obj\Debug\netcoreapp3.1\Garage.AssemblyInfo.cs
+C:\Users\Asus TUF\OneDrive\Документи\1ДУТ ПАРИ\С#\Labs\Garage\Garage\obj\Debug\netcoreapp3.1\Garage.csproj.CoreCompileInputs.cache
+C:\Users\Asus TUF\OneDrive\Документи\1ДУТ ПАРИ\С#\Labs\Garage\Garage\obj\Debug\netcoreapp3.1\Garage.dll
+C:\Users\Asus TUF\OneDrive\Документи\1ДУТ ПАРИ\С#\Labs\Garage\Garage\obj\Debug\netcoreapp3.1\Garage.pdb
+C:\Users\Asus TUF\OneDrive\Документи\1ДУТ ПАРИ\С#\Labs\Garage\Garage\obj\Debug\netcoreapp3.1\Garage.genruntimeconfig.cache
